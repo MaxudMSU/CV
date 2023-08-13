@@ -23,7 +23,7 @@ sidebar:
     github: MaxudMSU
     telegram: goodluck_m
     codewars: MaxudMSU
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    # pdf: http://www.africau.edu/images/default/sample.pdf
 
     # languages:
     #   title: Languages
@@ -52,7 +52,7 @@ sidebar:
 career-profile:
     title: О себе
     summary: 
-        Интересуюсь функциональной парадигмой и решением задач в функциональном стиле.В качестве научной работы исследую алгоритмы проверки унимодулярности(обратимости) матриц дифференциальных операторов.
+        Интересуюсь функциональной парадигмой и решением задач в функциональном стиле. В качестве научной работы исследую алгоритмы проверки унимодулярности(обратимости) матриц дифференциальных операторов.
 education:
     title: Образование
     info:
